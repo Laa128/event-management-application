@@ -2,6 +2,16 @@
 
 This application was generated using JHipster 8.7.3, you can find documentation and help at [https://www.jhipster.tech/documentation-archive/v8.7.3](https://www.jhipster.tech/documentation-archive/v8.7.3).
 
+## Purpose
+
+This platform is for Streamlining Event Organisation which will organize, manage events and allow users to register, access, schedule, and receive event-related notifications. The core objective of Event Management System is to provide facilities which will help in making efficient event planning, and organization. This project addresses the efficient event coordination, enhances event attendees experience, and most important that is needed in every event planning, the Centralised Information Hub, which will give event-related information, eliminate confusion of attendees by providing up-to-date schedules, event details, and logistic information.
+
+The Event Management System simplifies the event coordination by providing both facilities of event organizers, and attendees by giving them real-time notifications, to ensure that participants stay informed about the event updates, changes, and important announcements. This application provides event organizer tools for managing the attendees participation, registrations, tracking of attendance, update event details on time, and can hesitate-free communication with participants, also participants can put their reviews and feedbacks.
+
+Real-Time Notifications: Use Spring WebSockets or WebPush Notifications for real-time event updates and reminders.
+Seat Reservation System: For events like concerts or conferences, add seat selection and reservation functionality.
+Integration with Google Calendar: Allow users to add events to their Google Calendar or sync events with it.
+
 ## Project Structure
 
 Node is required for generation and recommended for development. `package.json` is always generated for a better development experience with prettier, commit hooks, scripts and so on.
